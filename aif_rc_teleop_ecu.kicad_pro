@@ -429,13 +429,17 @@
         "uuid": "a363d9db-65ec-4e34-8378-615a57ba2446"
       }
     ],
-    "used_designators": "#FLG1-2,C1-2,#PWR1-5,J1-2",
+    "used_designators": "#FLG1-2,C1-2,#PWR1-6,J1-3",
     "variants": []
   },
   "sheets": [
     [
       "a363d9db-65ec-4e34-8378-615a57ba2446",
       "aif_rc_teleop_ecu"
+    ],
+    [
+      "0cdf92b2-bee3-4bd4-9ef9-48bd503d20b2",
+      "STM32G474"
     ]
   ],
   "text_variables": {},
