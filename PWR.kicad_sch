@@ -1430,7 +1430,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 174.752 99.06 90)
 			(hide yes)
 			(show_name no)
@@ -1668,7 +1668,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 211.582 99.06 90)
 			(hide yes)
 			(show_name no)
@@ -1828,7 +1828,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 40.3352 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -1910,7 +1910,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 103.8352 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -2070,7 +2070,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 60.6552 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -2152,7 +2152,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 213.36 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -2323,7 +2323,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 176.53 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -2404,7 +2404,7 @@
 				)
 			)
 		)
-		(property "Value" "XC6206PxxxMR"
+		(property "Value" "XC6206P332MR"
 			(at 81.28 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
