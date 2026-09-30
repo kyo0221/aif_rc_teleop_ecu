@@ -429,7 +429,7 @@
         "uuid": "a363d9db-65ec-4e34-8378-615a57ba2446"
       }
     ],
-    "used_designators": "#FLG1-2,C1-2,#PWR1-6,J1-3",
+    "used_designators": "U1-2,JP1,R1-3,#FLG1-2,D1-4,C1-6,#PWR1-14,J1-4",
     "variants": []
   },
   "sheets": [
@@ -440,6 +440,14 @@
     [
       "0cdf92b2-bee3-4bd4-9ef9-48bd503d20b2",
       "STM32G474"
+    ],
+    [
+      "1de26584-9878-4d43-9f7f-35a66e893b8e",
+      "CAN_Transeiver"
+    ],
+    [
+      "b235a375-a2c3-45d3-97c3-33f9e0688c1e",
+      "PWR"
     ]
   ],
   "text_variables": {},
