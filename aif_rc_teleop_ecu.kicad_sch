@@ -4433,7 +4433,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x07_P1.27mm_Vertical_SMD"
+		(property "Footprint" "my_pretty:JTAG_BOX_CONN"
 			(at 38.1 109.22 0)
 			(hide yes)
 			(show_name no)
