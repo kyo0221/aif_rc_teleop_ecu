@@ -1,5 +1,6 @@
 (fp_lib_table
-  (version 7)
-  (lib (name "my_pretty")(type "KiCad")(uri "${KIPRJMOD}/libraries/pretty")(options "")(descr "AIF共通ライブラリ (hcmos/kicad7_libraries)"))
-  (lib (name "logo_pretty")(type "KiCad")(uri "${KIPRJMOD}/libraries/logo_pretty")(options "")(descr "AIF共通ライブラリ ロゴ"))
+	(version 7)
+	(lib (name "my_pretty") (type "KiCad") (uri "${KIPRJMOD}/libraries/pretty") (options "") (descr "AIF共通ライブラリ (hcmos/kicad7_libraries)"))
+	(lib (name "logo_pretty") (type "KiCad") (uri "${KIPRJMOD}/libraries/logo_pretty") (options "") (descr "AIF共通ライブラリ ロゴ"))
+	(lib (name "easyeda") (type "KiCad") (uri "${KIPRJMOD}/libraries/easyeda/easyeda.pretty") (options "") (descr ""))
 )

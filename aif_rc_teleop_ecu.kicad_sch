@@ -4889,8 +4889,8 @@
 		(fill
 			(color 0 0 0 0)
 		)
-		(uuid "1de26584-9878-4d43-9f7f-35a66e893b8e")
-		(property "Sheetname" "CAN_Transeiver"
+		(uuid "3c9e85ac-2e01-4b54-9979-93f217d3677e")
+		(property "Sheetname" "CA-IS3062VW"
 			(at 60.96 146.6084 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4901,7 +4901,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "ISOW1044.kicad_sch"
+		(property "Sheetfile" "CA-IS3062VW.kicad_sch"
 			(at 60.96 177.1146 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4914,7 +4914,7 @@
 		)
 		(pin "CAN_H" bidirectional
 			(at 97.79 170.18 0)
-			(uuid "37147194-00ff-4291-b421-357209edec2b")
+			(uuid "a328ff92-b688-4a1d-a0d3-56a966e7aeb7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4924,7 +4924,7 @@
 		)
 		(pin "CAN_L" bidirectional
 			(at 97.79 173.99 0)
-			(uuid "73ab9641-4135-4c31-bf6a-0b350ed4d738")
+			(uuid "7e5e1f13-b4b5-46a4-9a66-cff8bb749b32")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4934,7 +4934,7 @@
 		)
 		(pin "CAN_RX" output
 			(at 76.2 147.32 90)
-			(uuid "87b9c310-625c-4811-992a-3b7f79c5e276")
+			(uuid "4eb6156b-084c-4ac3-a778-718d942391a2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4944,7 +4944,7 @@
 		)
 		(pin "CAN_TX" input
 			(at 78.74 147.32 90)
-			(uuid "eec25630-1cb3-47a5-8d0b-17110891cc36")
+			(uuid "0c9121a5-251e-451e-9da6-4ee2a85bad34")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4954,7 +4954,7 @@
 		)
 		(pin "GND_CAN" passive
 			(at 97.79 149.86 0)
-			(uuid "9f0829df-9262-4755-8fc6-07249b2f7ecb")
+			(uuid "1aaac6b7-fec8-47b5-864c-6916ac0636b9")
 			(effects
 				(font
 					(size 1.27 1.27)

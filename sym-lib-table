@@ -1,4 +1,5 @@
 (sym_lib_table
-  (version 7)
-  (lib (name "my_library")(type "KiCad")(uri "${KIPRJMOD}/libraries/my_library.kicad_sym")(options "")(descr "AIF共通ライブラリ (hcmos/kicad7_libraries)"))
+	(version 7)
+	(lib (name "my_library") (type "KiCad") (uri "${KIPRJMOD}/libraries/my_library.kicad_sym") (options "") (descr "AIF共通ライブラリ (hcmos/kicad7_libraries)"))
+	(lib (name "easyeda") (type "KiCad") (uri "${KIPRJMOD}/libraries/easyeda/easyeda.kicad_sym") (options "") (descr ""))
 )

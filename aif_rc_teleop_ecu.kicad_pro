@@ -656,7 +656,7 @@
       "include_excluded_from_bom": true,
       "name": "Default Editing",
       "sort_asc": true,
-      "sort_field": "\u30ea\u30d5\u30a1\u30ec\u30f3\u30b9"
+      "sort_field": "リファレンス"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
@@ -699,7 +699,7 @@
         "uuid": "a363d9db-65ec-4e34-8378-615a57ba2446"
       }
     ],
-    "used_designators": "H1-4,L1,SW1,U1-2,JP1,R1-8,#FLG1-3,D1-5,C1-15,#PWR1-28,J1-4",
+    "used_designators": "J1-4,#PWR1-28,C1-15,D1-5,#FLG1-3,R1-8,JP1,U1-3,SW1,L1,H1-4",
     "variants": []
   },
   "sheets": [
@@ -712,8 +712,8 @@
       "STM32G474"
     ],
     [
-      "1de26584-9878-4d43-9f7f-35a66e893b8e",
-      "CAN_Transeiver"
+      "3c9e85ac-2e01-4b54-9979-93f217d3677e",
+      "CA-IS3062VW"
     ],
     [
       "b235a375-a2c3-45d3-97c3-33f9e0688c1e",
