@@ -699,7 +699,7 @@
         "uuid": "a363d9db-65ec-4e34-8378-615a57ba2446"
       }
     ],
-    "used_designators": "J1-4,#PWR1-28,C1-15,D1-5,#FLG1-3,R1-8,JP1,U1-3,SW1,L1,H1-4",
+    "used_designators": "J1-4,Y1,#PWR1-29,C1-17,D1-5,#FLG1-3,R1-8,JP1,U1-3,SW1,L1,H1-4",
     "variants": []
   },
   "sheets": [
@@ -713,7 +713,7 @@
     ],
     [
       "3c9e85ac-2e01-4b54-9979-93f217d3677e",
-      "CA-IS3062VW"
+      "CAN_Transeiver"
     ],
     [
       "b235a375-a2c3-45d3-97c3-33f9e0688c1e",
