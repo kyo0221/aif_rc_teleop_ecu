@@ -1791,7 +1791,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10μ"
 			(at 203.2 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1883,7 +1883,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1μ"
 			(at 123.19 121.92 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1975,7 +1975,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1μ"
 			(at 175.26 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2221,7 +2221,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1μ"
 			(at 210.82 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2313,7 +2313,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1μ"
 			(at 128.27 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2893,7 +2893,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10μ"
 			(at 119.38 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)

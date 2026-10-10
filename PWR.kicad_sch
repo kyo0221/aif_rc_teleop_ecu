@@ -1817,7 +1817,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100u"
+		(property "Value" "100μ"
 			(at 43.18 116.8399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1899,7 +1899,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1μ"
 			(at 106.68 116.8399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2059,7 +2059,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1μ"
 			(at 63.5 116.8399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2152,7 +2152,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 213.36 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -2323,7 +2323,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 176.53 110.49 0)
 			(hide yes)
 			(show_name no)

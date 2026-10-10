@@ -3597,16 +3597,6 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 74.93) (xy 93.98 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9aa3f61f-a156-4f6f-9db1-9f2a3f9f50bd")
-	)
-	(wire
-		(pts
 			(xy 215.9 102.87) (xy 215.9 106.68)
 		)
 		(stroke
@@ -3847,7 +3837,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 74.93) (xy 85.09 74.93)
+			(xy 80.01 74.93) (xy 93.98 74.93)
 		)
 		(stroke
 			(width 0)
@@ -4726,7 +4716,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1μ"
 			(at 222.25 44.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5159,7 +5149,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1μ"
 			(at 71.12 40.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5553,7 +5543,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1μ"
 			(at 210.82 44.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5646,7 +5636,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 184.15 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -5895,7 +5885,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 199.39 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -6115,85 +6105,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 88.9 74.93 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "79458ac1-8d2f-453f-961c-87a82403fd25")
-		(property "Reference" "R8"
-			(at 92.202 77.47 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 88.9 77.978 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 88.9 76.708 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 88.9 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 88.9 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "9453b8b1-58e0-450b-b785-aa98012a8165")
-		)
-		(pin "1"
-			(uuid "ca0a3f7c-fa01-4613-999a-d65e8158dbe4")
-		)
-		(instances
-			(project "aif_rc_teleop_ecu"
-				(path "/a363d9db-65ec-4e34-8378-615a57ba2446/0cdf92b2-bee3-4bd4-9ef9-48bd503d20b2"
-					(reference "R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3.3V")
 		(at 67.31 29.21 0)
 		(unit 1)
@@ -6376,7 +6287,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1μ"
 			(at 187.96 44.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6690,7 +6601,7 @@
 				)
 			)
 		)
-		(property "Value" "20p"
+		(property "Value" "33p"
 			(at 65.532 61.468 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6782,7 +6693,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 215.9 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -6946,7 +6857,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1μ"
 			(at 199.39 44.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7182,7 +7093,7 @@
 				)
 			)
 		)
-		(property "Value" "20p"
+		(property "Value" "33p"
 			(at 68.834 78.74 90)
 			(show_name no)
 			(do_not_autoplace no)
