@@ -2436,7 +2436,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C16"
-			(at 7.525 1.4 90)
+			(at 0 -1.4 90)
 			(layer "F.SilkS")
 			(uuid "74558bfe-54eb-4d25-84cd-d1db9f176396")
 			(effects
@@ -12097,7 +12097,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C12"
-			(at 2.204819 0 90)
+			(at 0 -1.2 180)
 			(layer "F.SilkS")
 			(uuid "ce4fc05b-bb68-499b-b638-e26ab032177f")
 			(effects
@@ -12425,7 +12425,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R7"
-			(at -0.047619 -1.454819 90)
+			(at -2.025 0 180)
 			(layer "F.SilkS")
 			(uuid "2ca1bea1-3487-4cb1-9ab6-430d1dd59ba4")
 			(effects
@@ -12847,6 +12847,18 @@
 				(size 1 1)
 				(thickness 0.15)
 			)
+		)
+	)
+	(gr_text "PWR"
+		(at 159.8 56.4 90)
+		(layer "Dwgs.User")
+		(uuid "4ee3f693-ab2a-4da3-ac92-28978148af7c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
 		)
 	)
 	(segment
