@@ -2970,7 +2970,7 @@
 		(uuid "294bbf9d-1d51-4dbd-b247-70199d130f91")
 	)
 	(no_connect
-		(at 135.89 62.23)
+		(at 135.89 97.79)
 		(uuid "2b71e197-b6e2-4f67-9d04-e3a9dd21f0c6")
 	)
 	(no_connect
@@ -3010,7 +3010,7 @@
 		(uuid "8500fcdf-edd5-4bea-bd00-d0f15f212031")
 	)
 	(no_connect
-		(at 135.89 59.69)
+		(at 135.89 95.25)
 		(uuid "923a1215-4d0a-4b67-a962-46ca1fa9728a")
 	)
 	(no_connect
@@ -3042,7 +3042,7 @@
 		(uuid "a76cc9e1-5365-442e-88b7-a36b9d0d8cd4")
 	)
 	(no_connect
-		(at 135.89 57.15)
+		(at 135.89 92.71)
 		(uuid "bf5a3a96-3c00-44ba-b995-3ad082bb694c")
 	)
 	(no_connect
@@ -3307,7 +3307,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 97.79) (xy 139.7 97.79)
+			(xy 135.89 62.23) (xy 139.7 62.23)
 		)
 		(stroke
 			(width 0)
@@ -3397,7 +3397,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 95.25) (xy 139.7 95.25)
+			(xy 135.89 59.69) (xy 139.7 59.69)
 		)
 		(stroke
 			(width 0)
@@ -3477,7 +3477,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 92.71) (xy 139.7 92.71)
+			(xy 135.89 57.15) (xy 139.7 57.15)
 		)
 		(stroke
 			(width 0)
@@ -3976,7 +3976,7 @@
 		(uuid "f6e4dbb3-f42d-4e04-981b-171f3f9f9c8f")
 	)
 	(label "MODE_LED"
-		(at 139.7 97.79 0)
+		(at 139.7 62.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3986,7 +3986,7 @@
 		(uuid "0e086c67-a0f1-43ec-8592-8df0f196fded")
 	)
 	(label "FAIL_LED"
-		(at 139.7 95.25 0)
+		(at 139.7 59.69 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4016,7 +4016,7 @@
 		(uuid "d42dd2ea-db58-4095-b1a0-796822a45e6f")
 	)
 	(label "STATUS_LED"
-		(at 139.7 92.71 0)
+		(at 139.7 57.15 0)
 		(effects
 			(font
 				(size 1.27 1.27)
