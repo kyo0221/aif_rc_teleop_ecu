@@ -2312,12 +2312,6 @@
 		(uuid "1f288dc4-bbab-4d2b-9c55-1a240f4bba12")
 	)
 	(junction
-		(at 171.45 50.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "409a5e51-101e-4fae-86cd-c036b99e011c")
-	)
-	(junction
 		(at 27.94 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2358,12 +2352,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d872ee22-266c-43f0-8043-6005d4d7b16f")
-	)
-	(junction
-		(at 171.45 58.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d94d1b3a-14fd-4a0b-8c3d-af6fc7ecae01")
 	)
 	(no_connect
 		(at 33.02 111.76)
@@ -2535,16 +2523,6 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 50.8) (xy 176.53 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "437fe683-f400-4b0d-85a0-db4f575f27ee")
-	)
-	(wire
-		(pts
 			(xy 86.36 57.15) (xy 86.36 69.85)
 		)
 		(stroke
@@ -2612,16 +2590,6 @@
 			(type default)
 		)
 		(uuid "7359fe5b-bd75-4427-8407-bcfeee5214d6")
-	)
-	(wire
-		(pts
-			(xy 171.45 58.42) (xy 176.53 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7833e282-6feb-44d4-8dc2-1047a4d3f33e")
 	)
 	(wire
 		(pts
@@ -2712,26 +2680,6 @@
 			(type default)
 		)
 		(uuid "a5e8d0be-60ec-4a77-bb26-c7a0040bb622")
-	)
-	(wire
-		(pts
-			(xy 166.37 58.42) (xy 171.45 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a5ff7cf5-b80a-4718-8802-f2fd9413e4e6")
-	)
-	(wire
-		(pts
-			(xy 166.37 50.8) (xy 171.45 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a659b742-1395-49cc-b2bc-d3763035c117")
 	)
 	(wire
 		(pts
@@ -3439,87 +3387,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 166.37 54.61 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "47a047d0-8b01-4053-b67f-cc96de9c4df0")
-		(property "Reference" "C1"
-			(at 160.02 53.594 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10μ"
-			(at 160.02 56.388 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 167.3352 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 166.37 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 166.37 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "02e8285f-4108-4d3b-a144-16a05401b521")
-		)
-		(pin "2"
-			(uuid "8c6e8bb0-832f-43f0-b664-966d7628d701")
-		)
-		(instances
-			(project "aif_rc_teleop_ecu"
-				(path "/a363d9db-65ec-4e34-8378-615a57ba2446"
-					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 54.61 74.93 0)
 		(unit 1)
@@ -3681,7 +3548,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 176.53 54.61 180)
+		(at 171.45 54.61 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3692,7 +3559,7 @@
 		(fields_autoplaced yes)
 		(uuid "7d020f9a-2e4f-4862-86c0-5500f0c686d9")
 		(property "Reference" "C2"
-			(at 180.34 53.3399 0)
+			(at 175.26 53.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3703,7 +3570,7 @@
 			)
 		)
 		(property "Value" "0.1μ"
-			(at 180.34 55.8799 0)
+			(at 175.26 55.8799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3714,7 +3581,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 175.5648 50.8 0)
+			(at 170.4848 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3725,7 +3592,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 54.61 0)
+			(at 171.45 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3736,7 +3603,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 176.53 54.61 0)
+			(at 171.45 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
