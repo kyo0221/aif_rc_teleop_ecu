@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,10.0.6-10.0.6~ubuntu22.04.1*%
-%TF.CreationDate,2026-11-09T19:40:52+09:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.6-10.0.6~ubuntu24.04.1*%
+%TF.CreationDate,2026-11-10T19:38:31+09:00*%
 %TF.ProjectId,aif_rc_teleop_ecu,6169665f-7263-45f7-9465-6c656f705f65,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Legend,Top*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 10.0.6-10.0.6~ubuntu22.04.1) date 2026-11-09 19:40:52*
+G04 Created by KiCad (PCBNEW 10.0.6-10.0.6~ubuntu24.04.1) date 2026-11-10 19:38:31*
 %MOMM*%
 %LPD*%
 G01*
